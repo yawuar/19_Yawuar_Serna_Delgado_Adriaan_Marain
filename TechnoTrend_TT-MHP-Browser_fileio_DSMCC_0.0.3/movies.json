@@ -1,0 +1,162 @@
+[{
+   "Id": "0",
+   "Title": "The Shawshank Redemption",
+   "Director": "Frank Darabont",
+   "Year": "1994",
+   "Rating": "9.2",
+   "Genre": "Crime",
+   "Imageurl": "theshawshankredemption.jpg"
+},
+{
+   "Id": "1",
+   "Title": "The Godfather",
+   "Director": "Francis Ford Coppola",
+   "Year": "1972",
+   "Rating": "9.2",
+   "Genre": "Crime",
+   "Imageurl": "godfather1.jpg"
+},
+{
+   "Id": "2",
+   "Title": "The Godfather: Part II",
+   "Director": "Francis Ford Coppola",
+   "Year": "1974",
+   "Rating": "9.0",
+   "Genre": "Crime",
+   "Imageurl": "godfather2.jpg"
+},
+{
+   "Id": "3",
+   "Title": "The Dark Knight",
+   "Director": "Christopher Nolan",
+   "Year": "2008",
+   "Rating": "8.9",
+   "Genre": "Action",
+   "Imageurl": "thedarkknight.jpg"
+},
+{
+   "Id": "4",
+   "Title": "Schindler's List",
+   "Director": "Steven Spielberg",
+   "Year": "1993",
+   "Rating": "8.9",
+   "Genre": "Biography",
+   "Imageurl": "schindlerslist.jpg"
+},
+{
+   "Id": "5",
+   "Title": "12 Angry Men",
+   "Director": "Sidney Lumet",
+   "Year": "1957",
+   "Rating": "8.9",
+   "Genre": "Crime",
+   "Imageurl": "twelveangrymen.jpg"
+},
+{
+   "Id": "6",
+   "Title": "Pulp Fiction",
+   "Director": "Quentin Tarantino",
+   "Year": "1994",
+   "Rating": "8.9",
+   "Genre": "Crime",
+   "Imageurl": "pulpfiction.jpg"
+},
+{
+   "Id": "7",
+   "Title": "LOTR: The Return of the King",
+   "Director": "Peter Jackson",
+   "Year": "2003",
+   "Rating": "8.9",
+   "Genre": "Adventure",
+   "Imageurl": "lotrreturnoftheking.jpg"
+},
+{
+   "Id": "8",
+   "Title": "Il Buono, il brutto, il cattivo",
+   "Director": "Sergio Leone",
+   "Year": "1966",
+   "Rating": "8.9",
+   "Genre": "Western",
+   "Imageurl": "ilbuonoilbrutto.jpg"
+},
+{
+   "Id": "9",
+   "Title": "Fight Club",
+   "Director": "David Fincher",
+   "Year": "1999",
+   "Rating": "8.8",
+   "Genre": "Drama",
+   "Imageurl": "fightclub.jpg"
+},
+{
+   "Id": "10",
+   "Title": "LOTR: Fellowship of the Ring",
+   "Director": "Peter Jackson",
+   "Year": "2001",
+   "Rating": "8.8",
+   "Genre": "Adventure",
+   "Imageurl": "lotrfellowship.jpg"
+},
+{
+   "Id": "11",
+   "Title": "Star Wars: Episode V",
+   "Director": "Irvin Kershner",
+   "Year": "1980",
+   "Rating": "8.7",
+   "Genre": "Action",
+   "Imageurl": "sw5.jpg"
+},
+{
+   "Id": "12",
+   "Title": "Forrest Gump",
+   "Director": "Robert Zemeckis",
+   "Year": "1994",
+   "Rating": "8.7",
+   "Genre": "Drama",
+   "Imageurl": "forrestgump.jpg"
+},
+{
+   "Id": "13",
+   "Title": "Inception",
+   "Director": "Christopher Nolan",
+   "Year": "2010",
+   "Rating": "8.7",
+   "Genre": "Action",
+   "Imageurl": "inception.jpg"
+},
+{
+   "Id": "14",
+   "Title": "LOTR: The Two Towers",
+   "Director": "Peter Jackson",
+   "Year": "2002",
+   "Rating": "8.7",
+   "Genre": "Adventure",
+   "Imageurl": "lotrtwotowers.jpg"
+},
+{
+   "Id": "15",
+   "Title": "One Flew Over the Cuckoo's Nest",
+   "Director": "Milos Forman",
+   "Year": "1975",
+   "Rating": "8.7",
+   "Genre": "Drama",
+   "Imageurl": "cuckoosnest.jpg"
+},
+{
+   "Id": "16",
+   "Title": "Goodfellas",
+   "Director": "Martin Scorses",
+   "Year": "1990",
+   "Rating": "8.7",
+   "Genre": "Biography",
+   "Imageurl": "goodfellas.jpg"
+},
+{
+   "Id": "17",
+   "Title": "The Matrix",
+   "Director": "The Wachoski Brothers",
+   "Year": "1999",
+   "Rating": "8.7",
+   "Genre": "Action",
+   "Imageurl": "thematrix.jpg"
+}]
